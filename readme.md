@@ -330,6 +330,101 @@ laporankan hasil pengerjaan sebuah instalisasi debian 12 menggunakan virtual mac
       <img src="assets/Debian/step62.png" alt="stepvd35">
     </div>
 
+36. Pilih "Yes" dan klik **"Continue"** pada pertanyaan write the changes to disk.
+    <div align="center">
+      <img src="assets/Debian/step52.png" alt="stepvd36">
+    </div>
+
+37. Pilih "No" pada scan Extra installation media.
+    <div align="center">
+      <img src="assets/Debian/step54.png" alt="stepvd37">
+    </div>
+
+38. Pilih "Configure the package manager" country ke "Indonesia" dan klik **"Continue"**.
+    <div align="center">
+      <img src="assets/Debian/step55.png" alt="stepvd38">
+    </div>
+
+39. Pilih Debian archive mirror ke "Kebo.pens.ac.id" dan klik **"Continue"**.
+    <div align="center">
+      <img src="assets/Debian/step56.png" alt="stepvd39">
+    </div>
+
+40. Kosongkan bagian http proxy dan klik **"Continue"**.
+    <div align="center">
+      <img src="assets/Debian/step57.png" alt="stepvd40">
+    </div>
+
+41. Pada tahap configuring popularity pilih NO dan Klik **"continue"**.
+    <div align="center">
+      <img src="assets/Debian/step58.png" alt="stepvd41">
+    </div>
+
+42. Tunggu Proses Installasi.
+    <div align="center">
+      <img src="assets/Debian/step59.png" alt="stepvd42">
+    </div>
+
+43. Pilih "Yes" pada pertanyaan apakah install GRUB dan Klik **"Continue"**.
+    <div align="center">
+      <img src="assets/Debian/step60.png" alt="stepvd43">
+    </div>
+
+44. Tunggu Installasi GRUB hingga selesai.
+    <div align="center">
+      <img src="assets/Debian/step61.png" alt="stepvd44">
+    </div>
+
+45. Pilih bootloader GRUB pada device awal yang tadi kita buat.
+    <div align="center">
+      <img src="assets/Debian/step64.png" alt="stepvd45">
+    </div>
+
+46. Pada Permintaan reboot silahkan klik **"Continue"**.
+    <div align="center">
+      <img src="assets/Debian/step65.png" alt="stepvd46">
+    </div>
+
+47. Dan Akhirnya OS Linux Debian kita siap digunakan!
+    <div align="center">
+      <img src="assets/Debian/step62.png" alt="stepvd47">
+    </div>
+48. Pilihlah bootloader GRUB pada device awal yang tadi kita buat.
+    <div align="center">
+      <img src="assets/Debian/step64.png" alt="stepvd48">
+    </div>
+
+49. Pada Permintaan reboot silahkan klik **"Continue"**.
+    <div align="center">
+      <img src="assets/Debian/step65.png" alt="stepvd49">
+    </div>
+
+50. Dan Akhirnya OS Linux Debian kita siap digunakan!
+    <div align="center">
+      <img src="assets/Debian/step62.png" alt="stepvd50">
+    </div>
+
+51. Dan akhirnya OS Linux Debian 12 Anda siap digunakan!
+    <div align="center">
+      <img src="assets/Debian/step62.png" alt="stepvd51">
+    </div>
+
+52. Pilih "Yes" dan klik **"Continue"** pada pertanyaan write the changes to disk.
+    <div align="center">
+      <img src="assets/Debian/step52.png" alt="stepvd52">
+    </div>
+
+53. Pilih "No" pada scan Extra installation media.
+    <div align="center">
+      <img src="assets/Debian/step54.png" alt="stepvd53">
+    </div>
+
+54. Pilih "Configure the package manager" country ke "Indonesia" dan klik **"Continue"**.
+    <div align="center">
+      <img src="assets/Debian/step55.png" alt="stepvd54">
+    </div>
+
+
 
 ## Kesimpulan
 
