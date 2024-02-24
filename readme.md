@@ -333,7 +333,7 @@ laporankan hasil pengerjaan sebuah instalisasi debian 12 menggunakan virtual mac
 
 ## Kesimpulan
 
-setelah praktikum Percobaan instal debian pada virtualbox menjadikan mahasiswa paham bagaimana cara menginstall OS pada VM (Virtual Machine) & Memberikan wawasan tentang konsep sederhana jalannya Operating Sistem selain itu, hal yang menarik ialah OS dapat berjalan tanpa harus menjadi Boot prioritas pada suatu BIOS / UEFI tapi OS juga dapat berjalan dan dijalankan pada Virtual Machine, sebagai Contoh adalah Oracle Virtualbox ini, bisa menjalankan Debian. mungkin bila di Machintos (MacOS) ada windows Pararel yang dapat menjalankan OS windows pada macbook / iMac dengan menggunakan Virtual Machine. sehingga dapat kita simpulkan bersama pada intinya OS adalah suatu perangkat lunak yang sangat penting pada keberlangsungan fungsi suatu barang elektronik tidak terkecuali sedikitpun.
+setelah praktikum Percobaan instal debian pada virtualbox menjadikan mahasiswa paham bagaimana cara menginstall OS pada VM (Virtual Machine) & Memberikan wawasan tentang konsep sederhana jalannya Operating Sistem selain itu, hal yang menarik ialah bahwa sistem operasi (OS) dapat berjalan baik melalui boot langsung pada BIOS/UEFI atau melalui lingkungan virtual seperti mesin virtual (VM). sebagai Contohnya adalah Oracle Virtualbox ini, bisa menjalankan Debian. mungkin bila di Machintos (MacOS) ada windows Pararel yang dapat menjalankan OS windows pada macbook / iMac dengan menggunakan Virtual Machine. sehingga dapat kita simpulkan yaitu intinya OS adalah suatu perangkat lunak yang sangat diperlukan pada keberlangsungan fungsi suatu barang elektronik.
 
 ### Referensi
 
