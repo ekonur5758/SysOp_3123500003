@@ -149,7 +149,7 @@ laporankan hasil pengerjaan sebuah instalisasi debian 12 menggunakan virtual mac
       <img src="assets/VirtualBox/step11.png" alt="stepvm11">
     </p>
 
-###instalasi os
+### instalasi os
 
 1. Download ISO debian 12 pada (https://www.debian.org/download)
    ![stepvd2](assets/Debian/step1.png)
