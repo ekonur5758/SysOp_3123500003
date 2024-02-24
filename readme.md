@@ -151,32 +151,32 @@ laporankan hasil pengerjaan sebuah instalisasi debian 12 menggunakan virtual mac
 
 ### instalasi os
 
-1. **Download ISO Debian 12** dari [website resmi Debian](https://www.debian.org/download)
+1. Download ISO Debian 12 dari [website resmi Debian](https://www.debian.org/download)
    <div align="center">
      <img src="assets/Debian/step1.png" alt="stepvd1">
    </div>
 
-2. Masuk dalam tampilan VirtualBox dan klik **"New"**
+2. Masuk ke tampilan VirtualBox dan klik **"New"**
    <div align="center">
      <img src="assets/Debian/step12.png" alt="stepvd2">
    </div>
 
-3. Masukkan nama "BEBAS" (Debian12), sesuaikan Type dan versi Debian sesuai arsitektur CPU, kemudian klik **"Next"**
+3. Masukkan nama "BEBAS" (Debian12), sesuaikan Type dan versi Debian sesuai arsitektur CPU, lalu klik **"Next"**
    <div align="center">
      <img src="assets/Debian/step13.png" alt="stepvd3">
    </div>
 
-4. **Alokasikan** CPU & RAM sesuai arahan (4096MB RAM & 2 CORE CPU)
+4. Alokasikan CPU & RAM Usage sesuai arahan (4096MB RAM & 2 CORE CPU)
    <div align="center">
      <img src="assets/Debian/step14.png" alt="stepvd4">
    </div>
 
-5. **Alokasikan** Storage sebesar 25GB (Akan otomatis menjadi 26GB) dan klik **"NEXT"**
+5. Alokasikan Storage sebesar 25GB (akan otomatis menjadi 26GB) dan klik **"Next"**
    <div align="center">
      <img src="assets/Debian/step15.png" alt="stepvd5">
    </div>
 
-6. Pada summary/preview, silahkan klik **"Finish"**
+6. Pada summary / preview, klik **"Finish"**
    <div align="center">
      <img src="assets/Debian/step16.png" alt="stepvd6">
    </div>
@@ -186,243 +186,231 @@ laporankan hasil pengerjaan sebuah instalisasi debian 12 menggunakan virtual mac
      <img src="assets/Debian/step17.png" alt="stepvd7">
    </div>
 
-8. Pada General, ubah **Shared Clipboard** menjadi bidirectional
+8. Pada bagian General, ubah Shared Clipboard menjadi bidirectional
    <div align="center">
      <img src="assets/Debian/step18.png" alt="stepvd8">
    </div>
 
-9. Pada Display, atur **Video Memory** sebaik mungkin; untuk rendering berat, pilih opsi paling maksimal
+9. Pada Display, atur video memory sebaik mungkin
    <div align="center">
      <img src="assets/Debian/step19.png" alt="stepvd9">
    </div>
 
-10. Pada Storage > Empty, cari ISO yang telah diunduh
+10. Pada Storage > Empty, cari ISO yang sudah diunduh
     <div align="center">
       <img src="assets/Debian/step21.png" alt="stepvd10">
     </div>
 
-11. Cari ISO yang telah diunduh dan klik "Open"
+11. Setelah menyetel, kembali ke halaman utama dan klik **"Start"**
     <div align="center">
-      <img src="assets/Debian/step22.png" alt="stepvd11">
-    </div>
-11. Cari ISO yang telah diunduh dan klik "Open"
-    <div align="center">
-      <img src="assets/Debian/step22.png" alt="stepvd11">
+      <img src="assets/Debian/step23.png" alt="stepvd11">
     </div>
 
-12. Setelah menyeting, kembali ke halaman utama dan Klik **"Start"**
+12. Setelah terbuka, tekan Enter pada **"Graphical Install"**
     <div align="center">
-      <img src="assets/Debian/step23.png" alt="stepvd12">
+      <img src="assets/Debian/step24.png" alt="stepvd12">
     </div>
 
-13. Setelah terbuka, silahkan tekan tombol "Enter" untuk memilih **Graphical Install**
+13. Pilih bahasa yang diinginkan dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step24.png" alt="stepvd13">
+      <img src="assets/Debian/step25.png" alt="stepvd13">
     </div>
 
-14. Pilih bahasa yang diinginkan dan Klik **"Continue"**
+14. Pilih lokasi yang diinginkan dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step25.png" alt="stepvd14">
+      <img src="assets/Debian/step26.png" alt="stepvd14">
     </div>
 
-15. Pilih Lokasi yang diinginkan (bisa yang terdekat dengan Anda) dan Klik **"Continue"**
+15. Pilih layout keyboard yang diinginkan dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step26.png" alt="stepvd15">
+      <img src="assets/Debian/step27.png" alt="stepvd15">
     </div>
 
-16. Pilih Layout keyboard yang diinginkan dan Klik **"Continue"**
+16. Tunggu proses persiapan
     <div align="center">
-      <img src="assets/Debian/step27.png" alt="stepvd16">
+      <img src="assets/Debian/step28.png" alt="stepvd16">
     </div>
 
-17. Tunggu proses persiapan
+17. Masukkan hostname sesuai saran Administrator Protocol dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step28.png" alt="stepvd17">
+      <img src="assets/Debian/step29.png" alt="stepvd17">
     </div>
 
-18. Masukkan hostname sesuai saran Administrator Protocol dan Klik **"Continue"**
+18. Masukkan Password sesuai keinginan dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step29.png" alt="stepvd18">
+      <img src="assets/Debian/step30.png" alt="stepvd18">
     </div>
 
-19. Masukkan Password sesuai keinginan dan Klik **"Continue"**
+19. Masukkan User account sesuai keinginan dan klik **"Continue"** dan tunggu prosesnya
     <div align="center">
-      <img src="assets/Debian/step30.png" alt="stepvd19">
+      <img src="assets/Debian/step31.png" alt="stepvd19">
     </div>
 
-20. Masukkan User account sesuai keinginan dan Klik **"Continue"**, kemudian tunggu prosesnya
+20. Pilih partisi disk yang sudah dibuat dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step31.png" alt="stepvd20">
+      <img src="assets/Debian/step32.png" alt="stepvd20">
     </div>
 
-21. Pilih Partisi disk yang sudah dibuat dan ditetapkan di awal langkah tadi dan Klik **"Continue"**
+21. Pilih "All files in one partition"
     <div align="center">
-      <img src="assets/Debian/step32.png" alt="stepvd21">
+      <img src="assets/Debian/step33.png" alt="stepvd21">
     </div>
 
-22. Pilih **"All files in one partition"**
+22. Pilih "Primary" untuk / dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step33.png" alt="stepvd22">
+      <img src="assets/Debian/step45.png" alt="stepvd22">
     </div>
 
-23. Pilih **"Finish partitioning and write changes to disk"** dan Klik **"Continue"**
+23. Masukkan / (20GB) dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step38.png" alt="stepvd23">
+      <img src="assets/Debian/step37.png" alt="stepvd23">
     </div>
 
-24. Pilih **"Yes"** pada konfirmasi pembuatan partisi baru
+24. Pilih Ext4 untuk / dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step52.png" alt="stepvd24">
+      <img src="assets/Debian/step36.png" alt="stepvd24">
     </div>
 
-25. Pilih **"No"** pada scan Extra installation media
+25. Klik "Done setting up the partition" dan **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step54.png" alt="stepvd25">
+      <img src="assets/Debian/step38.png" alt="stepvd25">
     </div>
 
-26. Pilih **"Configure the package manager"**, pilih negara "Indonesia", lalu Klik **"Continue"**
+26. Lakukan hal yang sama untuk partisi yang belum dibagi dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step55.png" alt="stepvd26">
+      <img src="assets/Debian/step39.png" alt="stepvd26">
     </div>
 
-27. Pilih Debian archive mirror ke **"Kebo.pens.ac.id"** dan Klik **"Continue"**
+27. Klik "Create a new partition" dan **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step56.png" alt="stepvd27">
+      <img src="assets/Debian/step40.png" alt="stepvd27">
     </div>
 
-28. Kosongkan bagian **HTTP proxy** dan Klik **"Continue"**
+28. Masukkan ukuran 5GB untuk /Storage dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step57.png" alt="stepvd28">
+      <img src="assets/Debian/step41.png" alt="stepvd28">
     </div>
 
-29. Pilih **"No"** pada konfirmasi configuring popularity-contest dan Klik **"Continue"**
+29. Pilih "Primary" untuk /Storage dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step58.png" alt="stepvd29">
+      <img src="assets/Debian/step42.png" alt="stepvd29">
     </div>
 
-30. Tunggu Proses Installasi
+30. Klik "Beginning" dan **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step59.png" alt="stepvd30">
+      <img src="assets/Debian/step43.png" alt="stepvd30">
     </div>
 
-31. Pilih **"Yes"** pada pertanyaan apakah install GRUB dan Klik **"Continue"**
+31. Pilih ext4 dan ubah Mount point menjadi /Storage, klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step60.png" alt="stepvd31">
+      <img src="assets/Debian/step44.png" alt="stepvd31">
     </div>
 
-32. Tunggu Installasi GRUB hingga selesai
+32. Pilih partisi yang belum diinisialisasi, klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step61.png" alt="stepvd32">
+      <img src="assets/Debian/step46.png" alt="stepvd32">
     </div>
 
-33. Pilih bootloader GRUB pada device awal yang telah dibuat dan Klik **"Continue"**
+33. Klik "Create a new partition" dan **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step64.png" alt="stepvd33">
+      <img src="assets/Debian/step40.png" alt="stepvd33">
     </div>
 
-34. Pada permintaan reboot, Klik **"Continue"**
+34. Masukkan ukuran 1.5GB untuk SWAP dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step65.png" alt="stepvd34">
+      <img src="assets/Debian/step47.png" alt="stepvd34">
     </div>
 
-35. Dan akhirnya, OS Linux Debian 12 Anda siap digunakan!
+35. Pilih "Logical" dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step62.png" alt="stepvd35">
+      <img src="assets/Debian/step48.png" alt="stepvd35">
     </div>
 
-36. Pilih "Yes" dan klik **"Continue"** pada pertanyaan write the changes to disk.
+36. Klik "Beginning" dan **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step52.png" alt="stepvd36">
+      <img src="assets/Debian/step43.png" alt="stepvd36">
     </div>
 
-37. Pilih "No" pada scan Extra installation media.
+37. Pilih "Use as" dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step54.png" alt="stepvd37">
+      <img src="assets/Debian/step44.png" alt="stepvd37">
     </div>
 
-38. Pilih "Configure the package manager" country ke "Indonesia" dan klik **"Continue"**.
+38. Pilih "SWAP" untuk "Use as" dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step55.png" alt="stepvd38">
+      <img src="assets/Debian/step49.png" alt="stepvd38">
     </div>
 
-39. Pilih Debian archive mirror ke "Kebo.pens.ac.id" dan klik **"Continue"**.
+39. Klik "Done setting up the partition" dan **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step56.png" alt="stepvd39">
+      <img src="assets/Debian/step50.png" alt="stepvd39">
     </div>
 
-40. Kosongkan bagian http proxy dan klik **"Continue"**.
+40. Pilih "Finish partitioning and write changes to disk" dan **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step57.png" alt="stepvd40">
+      <img src="assets/Debian/step51.png" alt="stepvd40">
     </div>
 
-41. Pada tahap configuring popularity pilih NO dan Klik **"continue"**.
+41. Pilih "Yes" dan klik **"Continue"** pada pertanyaan write the changes to disk
     <div align="center">
-      <img src="assets/Debian/step58.png" alt="stepvd41">
+      <img src="assets/Debian/step52.png" alt="stepvd41">
     </div>
 
-42. Tunggu Proses Installasi.
+42. Pilih "No" pada scan Extra installation media
     <div align="center">
-      <img src="assets/Debian/step59.png" alt="stepvd42">
+      <img src="assets/Debian/step54.png" alt="stepvd42">
     </div>
 
-43. Pilih "Yes" pada pertanyaan apakah install GRUB dan Klik **"Continue"**.
+43. Pilih "Configure the package manager" country menjadi "Indonesia" dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step60.png" alt="stepvd43">
+      <img src="assets/Debian/step55.png" alt="stepvd43">
     </div>
 
-44. Tunggu Installasi GRUB hingga selesai.
+44. Pilih Debian archive mirror ke "Kebo.pens.ac.id" dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step61.png" alt="stepvd44">
+      <img src="assets/Debian/step56.png" alt="stepvd44">
     </div>
 
-45. Pilih bootloader GRUB pada device awal yang tadi kita buat.
+45. Kosongkan bagian http proxy dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step64.png" alt="stepvd45">
+      <img src="assets/Debian/step57.png" alt="stepvd45">
     </div>
 
-46. Pada Permintaan reboot silahkan klik **"Continue"**.
+46. Pada tahap configuring popularity, pilih NO dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step65.png" alt="stepvd46">
+      <img src="assets/Debian/step58.png" alt="stepvd46">
     </div>
 
-47. Dan Akhirnya OS Linux Debian kita siap digunakan!
+47. Tunggu proses instalasi
     <div align="center">
-      <img src="assets/Debian/step62.png" alt="stepvd47">
-    </div>
-48. Pilihlah bootloader GRUB pada device awal yang tadi kita buat.
-    <div align="center">
-      <img src="assets/Debian/step64.png" alt="stepvd48">
+      <img src="assets/Debian/step59.png" alt="stepvd47">
     </div>
 
-49. Pada Permintaan reboot silahkan klik **"Continue"**.
+48. Pilih "Yes" pada pertanyaan apakah install GRUB dan klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step65.png" alt="stepvd49">
+      <img src="assets/Debian/step60.png" alt="stepvd48">
     </div>
 
-50. Dan Akhirnya OS Linux Debian kita siap digunakan!
+49. Tunggu instalasi GRUB hingga selesai
     <div align="center">
-      <img src="assets/Debian/step62.png" alt="stepvd50">
+      <img src="assets/Debian/step61.png" alt="stepvd49">
     </div>
 
-51. Dan akhirnya OS Linux Debian 12 Anda siap digunakan!
+50. Pilih bootloader GRUB pada device awal yang telah dibuat
     <div align="center">
-      <img src="assets/Debian/step62.png" alt="stepvd51">
+      <img src="assets/Debian/step64.png" alt="stepvd50">
     </div>
 
-52. Pilih "Yes" dan klik **"Continue"** pada pertanyaan write the changes to disk.
+51. Pada permintaan reboot, klik **"Continue"**
     <div align="center">
-      <img src="assets/Debian/step52.png" alt="stepvd52">
+      <img src="assets/Debian/step65.png" alt="stepvd51">
     </div>
 
-53. Pilih "No" pada scan Extra installation media.
+52. Dan akhirnya, OS Linux Debian 12 Anda siap digunakan!
     <div align="center">
-      <img src="assets/Debian/step54.png" alt="stepvd53">
+      <img src="assets/Debian/step62.png" alt="stepvd52">
     </div>
 
-54. Pilih "Configure the package manager" country ke "Indonesia" dan klik **"Continue"**.
-    <div align="center">
-      <img src="assets/Debian/step55.png" alt="stepvd54">
-    </div>
 
 
 
