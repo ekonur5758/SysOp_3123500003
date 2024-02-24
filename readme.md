@@ -84,37 +84,70 @@ laporankan hasil pengerjaan sebuah instalisasi debian 12 menggunakan virtual mac
 ##### Instalasi Virtual Machine
 
 1. Kunjungi website resmi Virtual Box (https://www.virtualbox.org/wiki/Downloads)
-   ![stepvm1](assets/VirtualBox/step1.png)
+
+   <p align="center">
+     <img src="assets/VirtualBox/step1.png" alt="stepvm1">
+   </p>
 
 2. Pilih versi VM packages yang sesuai dengan OS yang sekarang dijalankan dan tekan versi maka file Virtual box akan otomatis ter-download.
-   ![stepvm2](assets/VirtualBox//step2.png)
+
+   <p align="center">
+     <img src="assets/VirtualBox/step2.png" alt="stepvm2">
+   </p>
 
 3. Tunggu Download file hingga selesai.
-   ![stepvm3](assets/VirtualBox//step3fix.png)
+
+   <p align="center">
+     <img src="assets/VirtualBox/step3fix.png" alt="stepvm3">
+   </p>
 
 4. Buka File Aplikasi VirtualBox.exe (pada windows) yang telah didownload tadi
-   ![stepvm4](assets/VirtualBox//step4.png)
+
+   <p align="center">
+     <img src="assets/VirtualBox/step4.png" alt="stepvm4">
+   </p>
 
 5. Setelah aplikasi telah terbuka bisa Klik **"Next"**
-   ![stepvm5](assets/VirtualBox//step5.png)
+
+   <p align="center">
+     <img src="assets/VirtualBox/step5.png" alt="stepvm5">
+   </p>
 
 6. Setup instalasi & Klik **"Next"**
-   ![stepvm6](assets/VirtualBox//step6.png)
+
+   <p align="center">
+     <img src="assets/VirtualBox/step6.png" alt="stepvm6">
+   </p>
 
 7. Pada tahap warning network interface Klik **"YES"**
-   ![stepvm7](assets/VirtualBox//step7.png)
+
+   <p align="center">
+     <img src="assets/VirtualBox/step7.png" alt="stepvm7">
+   </p>
 
 8. Pada tahap missing dependencies klik **"YES"**
-   ![stepvm8](assets/VirtualBox//step8.png)
+
+   <p align="center">
+     <img src="assets/VirtualBox/step8.png" alt="stepvm8">
+   </p>
 
 9. Pada tahap siap install Klik **"Instal"**
-   ![stepvm9](assets/VirtualBox//step9.png)
+
+   <p align="center">
+     <img src="assets/VirtualBox/step9.png" alt="stepvm9">
+   </p>
 
 10. Tunggu proses intalasi aplikasi hingga **selesai**
-    ![stepvm10](assets/VirtualBox//step10.png)
+
+    <p align="center">
+      <img src="assets/VirtualBox/step10.png" alt="stepvm10">
+    </p>
 
 11. Setelah proses install selesai centang pada 'Start Virtual machine'
-    ![stepvm11](assets/VirtualBox//step11.png)
+
+    <p align="center">
+      <img src="assets/VirtualBox/step11.png" alt="stepvm11">
+    </p>
 
 ###instalasi os
 
