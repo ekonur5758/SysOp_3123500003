@@ -1,34 +1,38 @@
 <!-- JUDUL -->
 <div align="center">
-  <h1 class="text-align: center;font-weight: bold">Praktikum 1<br>Praktek System Operasi</h1>
-  <h3 class="text-align: center;">Dosen Pengampu : Dr. Ferry Astika Saputra, S.T., M.Sc.</h3>
+  <h1 style="text-align: center; font-weight: bold">Praktikum 1<br>Praktek System Operasi</h1>
+  <h3 style="text-align: center;">Dosen Pengampu : Dr. Ferry Astika Saputra, S.T., M.Sc.</h3>
 </div>
 <br />
 <!-- END JUDUL -->
 
 <!-- LOGO -->
 <div align="center">
-<img src="assets/logopens.png" alt="PENS">
+  <img src="assets/logopens.png" alt="PENS">
+</div>
 <!-- END LOGO -->
 
 <!-- MEMBER -->
-  <h3 style="text-align: center;">Disusun Oleh : </h3>
+<div align="center">
+  <h3 style="text-align: center;">Disusun Oleh :</h3>
   <p style="text-align: center;">
     <em>Muhammad Eko Nur Sholeh (3123500003)</em><br>
     <em>Ghaly Abrarian Putra (3123500018)</em><br>
-    <em>Muhammad Rasyid Rafif (3122500030)</em>
+    <em>Muhammad Rasyid Rafif (3122500030)</em>
   </p>
+</div>
 <!-- END MEMBER -->
 
 <!-- K -->
-<div style="text-align: center;">
+<div align="center">
   <h3 style="line-height: 1.3; font-weight: 600;">Politeknik Elektronika Negeri Surabaya<br>Departemen Teknik Informatika Dan Komputer<br>Program Studi Teknik Informatika<br>2023/2024</h3>
   <hr><hr>
-<!-- END K -->
 </div>
+<!-- END K -->
 
 <!-- DAFTAR ISI -->
-
+<div style="float: left;">
+  
 ## Daftar isi
 
 1. [Daftar Isi](#daftar-isi)
@@ -40,6 +44,7 @@
    - [Instalasi Debian 12 pada Virtual Machine](#instal-os)
 6. [Kesimpulan](#kesimpulan)
 7. [Refrensi](#referensi)
+
 
 <!-- END DAFTAR ISI -->
 
@@ -66,7 +71,7 @@ Berikut merupakan langkah - langkah pada saat proses booting :
 
 ### SOAL
 
-2.  laporan pengerjaan sebuah instalisasi debian 12 menggunakan virtual machine (VMbox) dengan syarat :
+laporankan hasil pengerjaan sebuah instalisasi debian 12 menggunakan virtual machine (VMbox) dengan syarat :
     -Setting CPU usage : 2 Core
     -Setting Ram : 4096MB / 4GB
     -HDD 25GB dengan partisi :
@@ -275,7 +280,7 @@ Berikut merupakan langkah - langkah pada saat proses booting :
 
 ## Kesimpulan
 
-setelah praktikum Percobaan instal debian pada virtualbox menjadikan mahasiswa paham bagaimana cara menginstall OS pada VM (Virtual Machine) & Memberikan wawasan  tentang konsep sederhana jalannya Operating Sistem selain itu, hal yang menarik ialah OS dapat berjalan tanpa harus menjadi Boot prioritas pada suatu BIOS / UEFI tapi OS juga dapat berjalan dan dijalankan pada Virtual Machine, sebagai Contoh adalah Oracle Virtualbox ini, bisa menjalankan Debian. mungkin bila di Machintos (MacOS) ada windows Pararel yang dapat menjalankan OS windows pada macbook / iMac dengan menggunakan Virtual Machine. sehingga dapat kita simpulkan bersama pada intinya OS adalah suatu perangkat lunak yang sangat penting pada keberlangsungan fungsi suatu barang elektronik tidak terkecuali sedikitpun.
+setelah praktikum Percobaan instal debian pada virtualbox menjadikan mahasiswa paham bagaimana cara menginstall OS pada VM (Virtual Machine) & Memberikan wawasan tentang konsep sederhana jalannya Operating Sistem selain itu, hal yang menarik ialah OS dapat berjalan tanpa harus menjadi Boot prioritas pada suatu BIOS / UEFI tapi OS juga dapat berjalan dan dijalankan pada Virtual Machine, sebagai Contoh adalah Oracle Virtualbox ini, bisa menjalankan Debian. mungkin bila di Machintos (MacOS) ada windows Pararel yang dapat menjalankan OS windows pada macbook / iMac dengan menggunakan Virtual Machine. sehingga dapat kita simpulkan bersama pada intinya OS adalah suatu perangkat lunak yang sangat penting pada keberlangsungan fungsi suatu barang elektronik tidak terkecuali sedikitpun.
 
 ### Referensi
 
@@ -292,3 +297,5 @@ Link Download Debian [🔗](https://www.debian.org/download)
 Link Virtual Box[🔗](https://www.virtualbox.org/)
 
 Video Tutorail How to Download & Instal debian 12 on VirtualBox[🔗](https://www.youtube.com/watch?v=zfOWKG2QPB0)
+
+</div>
