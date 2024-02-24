@@ -71,12 +71,13 @@ Berikut merupakan langkah - langkah pada saat proses booting :
 ### SOAL
 
 laporankan hasil pengerjaan sebuah instalisasi debian 12 menggunakan virtual machine (VMbox) dengan syarat :
--Setting CPU usage : 2 Core
--Setting Ram : 4096MB / 4GB
--HDD 25GB dengan partisi :
-/ : 20GB
-/storage : 5GB
-/swap :1.5GB
+
+- Setting CPU usage : 2 Core
+- Setting Ram : 4096MB / 4GB
+- HDD 25GB dengan partisi :
+  / : 20GB
+  /storage : 5GB
+  /swap :1.5GB
 
 ### Instalasi
 
