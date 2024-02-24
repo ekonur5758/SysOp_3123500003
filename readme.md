@@ -45,7 +45,6 @@
 6. [Kesimpulan](#kesimpulan)
 7. [Refrensi](#referensi)
 
-
 <!-- END DAFTAR ISI -->
 
 <!-- KONTEN -->
@@ -72,12 +71,12 @@ Berikut merupakan langkah - langkah pada saat proses booting :
 ### SOAL
 
 laporankan hasil pengerjaan sebuah instalisasi debian 12 menggunakan virtual machine (VMbox) dengan syarat :
-    -Setting CPU usage : 2 Core
-    -Setting Ram : 4096MB / 4GB
-    -HDD 25GB dengan partisi :
-    / : 20GB
-    /storage : 5GB
-    /swap :1.5GB
+-Setting CPU usage : 2 Core
+-Setting Ram : 4096MB / 4GB
+-HDD 25GB dengan partisi :
+/ : 20GB
+/storage : 5GB
+/swap :1.5GB
 
 ### Instalasi
 
@@ -90,7 +89,7 @@ laporankan hasil pengerjaan sebuah instalisasi debian 12 menggunakan virtual mac
    ![stepvm2](assets/VirtualBox//step2.png)
 
 3. Tunggu Download file hingga selesai.
-   ![stepvm3](assets/VirtualBox//step3.png)
+   ![stepvm3](assets/VirtualBox//step3fix.png)
 
 4. Buka File Aplikasi VirtualBox.exe (pada windows) yang telah didownload tadi
    ![stepvm4](assets/VirtualBox//step4.png)
