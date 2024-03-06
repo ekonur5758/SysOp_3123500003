@@ -59,14 +59,59 @@
 
 Berikut merupakan langkah - langkah pada saat proses booting :
 
-1. _Power On_ : perangkat mengirim tegangan maupun sinyal pada seluruh komponen hardware yang terkait.
-2. _Post (Power-On Self-Test)_ : Perangkat akan melakukan testing awal pada perangkat kerasnya, di komputer mencakup processor ,ram , gpu , dan storage yang tertanam. biasanya tahap ini ditandai pada saat muncul logo produsen motherboardnya.
-3. _Inisialisasi_ : Setelah tahap POST dan masuk kedalam boot priority, komputer akan melakukan inisialisasi perangkat keras eksternal. (Keyboard, Mouse , Printer , Headseat , Monitor ,Kabel Lan )
-4. _Loading Bootloader_ : bootloader merupakan sebuah proses dimana ketika storage penyimpanan memulai sebuah sistem operasi ke dalam memori (RAM).
-5. _Loading Kernel_ : merupakan sebuah tahap dimana sistem operasi secara aktif mulai memasuki tahap berikutnya (inisialisai sistem)
-6. _Init porcess_ : setelah kernel dimuat, sistem opereasi akan melakukan insialisasi. memuat layanan siste, mengatur konfigurasi jaringan, mempersiapkan environment user.
-7. _User Login_ : tahap terakhir, pengguna diminta untuk melakukan login ke sistem.
-8. _GUI_ : render tampilan antarmuka grafis serta masuk kedalam sistem.
+1. _Insialiasasi tegangan_ : pada tahap pertama power pada suatu laptop atau komputer akan standby dan menyalurkan tegangan rendah untuk persiapan langkah berikutnya.
+
+ <p align="center">
+     <img src="assets/Booting/booting.jpg" alt="stepvm1">
+   </p>
+
+2. _Power On_ : perangkat mengirim sinyal kepada front panel motherboard guna memngirimkan perintah menyalakan motherboard dan power mengirimkan tegangan kepada seluruh komponen.
+
+ <p align="center">
+     <img src="assets/Booting/booting2.jpeg" alt="stepvm1">
+   </p>
+
+3. _Inisialisasi BIOS_ : Pada tahap ini BIOS yang tertanam pada motherboard akan mengatur sistem berjalannya POST , Setting Hardware hingga BOOT Prioritas.
+
+ <p align="center">
+     <img src="assets/Booting/booting3.jpeg" alt="stepvm1">
+   </p>
+
+4. _Post (Power-On Self-Test)_ : Perangkat akan melakukan testing awal pada perangkat kerasnya, di komputer mencakup processor ,ram , gpu , storage yang tertanam dan hardwdare lainnya yang tertancam, Namun biasanya tahap ini pada motherboard modern tidak ditampilkan dan diganti dengan showlogo, hal tersebut ditandai pada saat muncul logo produsen motherboardnya. akan tetapi sekalipun motherboard modern yang belum terInstall OS dan tidak memiliki prioritas boot Biasanya BIOS akan tetap menampilkan POST seperti pada gambar
+
+  <p align="center">
+     <img src="assets/Booting/booting22.jpeg" alt="stepvm1">
+   </p>
+
+5. _Boot Sector_ : Setelah tahap POST bios akan mengeksekusi prioritas BOOTING, sehingga pada tahap ini juga merupakan suatu tahap yang penting untuk penentuan manakah OS yang ingin dijalankan. semakin prioritas urutan maka OS yang di prioritaskan yang akan dijalankan.
+
+  <p align="center">
+     <img src="assets/Booting/bootng4.jpeg" alt="stepvm1">
+   </p>
+
+6. _Loading Bootloader_ : bootloader merupakan sebuah proses dimana ketika storage penyimpanan memulai sebuah sistem operasi ke dalam memori (RAM).
+
+<p align="center">
+     <img src="assets/Booting/bootingloader.jpg" alt="stepvm1">
+   </p>
+
+7. _Loading Kernel_ : merupakan sebuah tahap dimana sistem operasi secara aktif mulai memasuki tahap berikutnya (inisialisai sistem)
+
+<p align="center">
+     <img src="assets/Booting/bootingkernel.png" alt="stepvm1">
+   </p>
+
+8. _Init Proses_ : setelah kernel dimuat, sistem opereasi akan melakukan insialisasi. memuat layanan sistem, mengatur konfigurasi jaringan, mempersiapkan environment user.
+
+<p align="center">
+     <img src="assets/Booting/init.png" alt="stepvm1">
+   </p>
+
+9. _GUI_ : render tampilan antarmuka grafis serta masuk kedalam sistem.
+
+<p align="center">
+     <img src="assets/Booting/GUI.jpeg~~" alt="stepvm1">
+   </p>
 
 ### SOAL
 
@@ -410,9 +455,6 @@ laporankan hasil pengerjaan sebuah instalisasi debian 12 menggunakan virtual mac
     <div align="center">
       <img src="assets/Debian/step62.png" alt="stepvd52">
     </div>
-
-
-
 
 ## Kesimpulan
 
