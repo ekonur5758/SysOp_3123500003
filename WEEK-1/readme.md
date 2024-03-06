@@ -110,7 +110,7 @@ Berikut merupakan langkah - langkah pada saat proses booting :
 9. _GUI_ : render tampilan antarmuka grafis serta masuk kedalam sistem.
 
 <p align="center">
-     <img src="assets/Booting/GUI.jpeg~~" alt="stepvm1">
+     <img src="assets/Booting/GUI.jpeg" alt="stepvm1">
    </p>
 
 ### SOAL
