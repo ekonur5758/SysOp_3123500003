@@ -46,8 +46,9 @@ Sedangkan Fungsi motherboard adalah sebagai pusat penghubung antara satu perangk
 ## Komponen Motherboard
 
 ### 1. Socket Prosesor
-
-![App Screenhot](<assets/Mobo/1%20(3).jpg>)
+<div align="center">
+      <img src="assets/Mobo/1%20(3).jpg" alt="stepvd18">
+    </div>
 Komponen motherboard yang pertama adalah socket prosesor. Fungsi komponen ini adalah sebagai tempat memasang prosesor. CPU socket yang terdapat pada motherboard haruslah cocok dengan jenis prosessor yang ada. Ada beberapa jenis-jenis socket prosesor, antara lain AMD & INTEL. biasanya AMD dimulai dengan awalan (AM) sedangkan INTEL awalan (LGA)
 
 ### 2. Slot Memory
