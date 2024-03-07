@@ -59,7 +59,7 @@ Legacy BIOS (Basic Input/Output System) adalah sistem firmware tradisional yang 
 
 - Banyak sistem modern masih mendukung mode Legacy untuk kompatibilitas dengan perangkat lunak atau perangkat keras yang dibuat untuk bekerja dengan Legacy BIOS.
 
-Meskipun Legacy BIOS masih digunakan pada beberapa sistem, sebagian besar komputer modern telah beralih ke UEFI untuk mendukung kebutuhan yang lebih canggih dan meningkatkan performa sistem.
+Walau lebih canggih UEFI, Legacy BIOS masih digunakan pada beberapa sistem, sebagian besar komputer modern telah beralih ke UEFI untuk mendukung kebutuhan yang lebih canggih dan meningkatkan performa sistem.
 
 ### UEFI
 
@@ -94,7 +94,7 @@ UEFI, atau Unified Extensible Firmware Interface, adalah sebuah standar antarmuk
 7. **Fleksibilitas Boot:**
    - UEFI mendukung boot dari berbagai sumber, termasuk drive internal, USB, dan jaringan, memberikan fleksibilitas yang lebih besar dalam konfigurasi sistem.
 
-Seiring dengan kemajuan teknologi, UEFI menjadi standar pada sebagian besar komputer modern dan memberikan sejumlah keuntungan dibandingkan dengan pendahulunya, Legacy BIOS.
+Semakin modern motherboard, UEFI menjadi standar pada sebagian besar komputer modern dan memberikan sejumlah keuntungan dibandingkan dengan Legacy BIOS.
 
 ## Perbedaan Legacy dan UEFI
 
