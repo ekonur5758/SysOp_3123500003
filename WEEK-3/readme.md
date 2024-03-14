@@ -24,7 +24,8 @@
 2. [FLOPS dan IOPS](#iops-dan-flops)<br>
    - [Install gcc](#instalasi-gcc)<br>
    - [Install make](#instalasi-make)<br>
-   - [How to run FLOPS dan IOPS](#how-to-run-flops-dan-iops)<br>
+   - [Install GIT](#instalasi-git)<br>
+   - [Clone GIT flops&iops](#git-clone)<br>
    - [Tabel Pengujian](#tabel-pengujian)<br>
    - [Analisa](#analisa)
 3. [Referensi](#referensi)
@@ -120,7 +121,7 @@
 
 
 
-
+#### GIT CLONE
 
 1. **<p align="justify">Setelah melakukan instalasi GCC , GIT , MAKE**<p>
 
@@ -172,20 +173,21 @@
 <p align=justify>setelah eksekusi make selanjutnya kita menginstall file benchmark yang telah kita clone tadi dengan perintah "sudo make install"</p>
 
 
-**<p align="justify">5. Benchmark  Flops**<p>
+**<p align="justify">6. Benchmark  Flops**<p>
 <img src="assets/flop/flops.png" alt="">
 <p align=justify>setelah berhasil install menggunakan make instal pada file2 hasil clone selanjutnya kita bisa langsung mengetest score benchmark flops dengan cara menuliskan "flops64 $(nproc)"</p>
 
 
 
-**<p align="justify">6. Benchmark  Iops**<p>
+**<p align="justify">7. Benchmark  Iops**<p>
 <img src="assets/flop/iops.png" alt="">
 <p align=justify>setelah berhasil install menggunakan make instal pada file2 hasil clone selanjutnya kita bisa langsung mengetest score benchmark iops dengan cara menuliskan "iops64 $(nproc)"</p>
 
 
-
+**ANALISA** 
 <h2 align="center">Analisa Hasil Benchmarking</h2>
 
+***TABEL PENGUJIAN*** 
 <p justify-content="center">
 
 |                      | IOPS64 (Integer)         | FLOPS64 (Floating Point)    |
