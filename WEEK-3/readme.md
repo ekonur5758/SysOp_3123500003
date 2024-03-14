@@ -31,7 +31,7 @@
 
 ## PPT
 
-**[Link PPT 🔗](https://www.canva.com/design/DAF_WiIYVxg/RGJFWfZrDohJ6Ga9WcEA3g/edit)**
+**[Link PPT 🔗]([https://www.canva.com/design/DAF_WiIYVxg/RGJFWfZrDohJ6Ga9WcEA3g/edit](https://www.canva.com/design/DAF_XW_UZwk/Nu7KdnHiqvdVecegtiWBUQ/edit?utm_content=DAF_XW_UZwk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))**
             
 
 
