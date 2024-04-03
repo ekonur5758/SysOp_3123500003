@@ -8,7 +8,7 @@
   <div align="center">
   <h3 style="text-align: center;">Disusun Oleh :</h3>
   <p style="text-align: center;">
-    <em>Ghaly Abrarian Putra (3123500018)</em><br>
+    <em>Muhammad Eko Nur Sholeh Ahadullail (3123500003)</em><br>
   </p>
 </div>
 
