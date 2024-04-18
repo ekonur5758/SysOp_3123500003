@@ -109,7 +109,7 @@ Beberapa versi UNIX mempunyai utilitas sistem yang disebut top yang menyediakan 
 
 2. Perintah `fg`
 
-   ![App Screenshot](./assets/2.png)
+   ![App Screenshot](assets/2.png)
 
    Analisa: Perintah `fg` disini digunakan untuk me-restart job pada foreground.
 
